@@ -3,6 +3,8 @@
 Plugin Name: Hide WordPress Version
 Description: Removes your WordPress version from various places.
 Author: Adam Harley
+Author URI: http://adamharley.co.uk
+Plugin URI: http://adamharley.co.uk/wordpress-plugins/hide-wordpress-version/
 Version: 1.0.1
 */
 
